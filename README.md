@@ -1,24 +1,22 @@
 #  Spotify Musical Tastes by City
 
-![Concert](readmeimg/concert.png)
-
 ### Description
 Analysis and visualization of Spotify listening preferences across 15 cities: listing city demographics alongside top artists and song for each city. Filters for genre, race, and gender.
 
-**Note:** This project was part of a larger group project I took part in, called [Popular Music Insights](https://github.com/Anaisdg/Popular_Music_Insights).
+**Note:** This project's full history can be viewed in the original repository: [Popular Music Insights](https://github.com/Anaisdg/Popular_Music_Insights). (The code in this repository includes only the parts I authored.)
 
 App screenshot:
 ![Map](_readmeimg/map.jpg)
 
 ### Technologies Employed 
 
-* [Spotipy API for Spotify](spotipy.readthedocs.io/en/latest/#api-reference)
+* [Spotipy API for Spotify](http://spotipy.readthedocs.io/en/latest/#api-reference)
 * [Flask](http://flask.pocoo.org/docs/0.12/quickstart/) and [Flask-PyMongo](https://flask-pymongo.readthedocs.io/en/latest/)
 * [Leaflet.js](http://leafletjs.com/)
 * [D3](http://d3js.org)
 * [Splinter](https://splinter.readthedocs.io/en/latest/)
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Lyrics Wiki](http://lyrics.wikia.com)
+* [LyricWiki](http://lyrics.wikia.com)
 * Pandas
 * MongoDB
 
