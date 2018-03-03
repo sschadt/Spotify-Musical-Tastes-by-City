@@ -2,8 +2,10 @@
 
 ### Description
 Analysis and visualization of Spotify listening preferences across 15 cities: listing city demographics alongside top artists and song for each city. Filters for genre, race, and gender.
-
 **Note:** This project's full history can be viewed in the original repository: [Popular Music Insights](https://github.com/Anaisdg/Popular_Music_Insights). (The code in this repository includes only the parts I authored.)
+
+### Demo
+View the [app on Heroku](https://mighty-taiga-44531.herokuapp.com/static/map.html).
 
 App screenshot:
 ![Map](_readmeimg/map.jpg)
